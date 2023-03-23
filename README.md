@@ -13,7 +13,7 @@ This python script calculates the total number of months covered in the dataset,
     We then calculate the monthly change in P&L by taking the difference between the current month's P&L and the prior month's, using a loop to calculate for each row. No change is calculated for the first row because there was no prior month amount. These monthly changes are stored in another list so that we calculate the average change and the max/min.
     Once all of the formulas are completed, we print the results to the terminal and to a text file.
 
-    Conculsion
+    Conclusion
     86 months are covered in this analysis.
     The average monthly change in P&L over this time was a loss of $8,311.11. 
     The greatest increase in profits was in July 2016 at $1,862,002, and the greatest decrease was in January 2014 at (-$1,825,558).
@@ -31,5 +31,5 @@ This challenge analyzes the voting results of a local election to determine whic
     Finally we calculate the winner of the election by determining who received the highest number of votes and returning the candidate associated with that number.
 
 
-    Conculsion
+    Conclusion
     With 369,711 total votes cast, the winner of this election is Diana DeGette with 272,892 votes or 73.812% of the vote.
