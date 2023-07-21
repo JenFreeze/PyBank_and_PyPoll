@@ -1,5 +1,5 @@
-# Py Poll and Py Bank Analysis
-This repository includes Python coding elements to analyze bank data and polling data. 
+# Calculating Numerical Results with Python
+#### Skills Used: Python, For Loops, If/Then Statements
 
 ## PyBank
 ### Overview
